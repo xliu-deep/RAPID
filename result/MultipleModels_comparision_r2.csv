@@ -1,0 +1,7 @@
+,name,best_params,best_cv_r2,train_r2,train_rmse,test_r2,test_rmse
+0,SVM,"{'C': 10, 'kernel': 'linear'}",0.679560717,0.784762954,0.075994288,0.87319996,0.086563583
+1,Decision Tree,"{'max_depth': 5, 'splitter': 'random'}",0.745522942,0.892821183,0.037841896,0.918397592,0.055708159
+2,Random Forest,"{'max_features': 0.5, 'min_samples_split': 4, 'n_estimators': 150}",0.725022515,0.896877306,0.03640979,0.898648802,0.069190221
+3,Neural Net,"{'activation': 'tanh', 'alpha': 0.05, 'hidden_layer_sizes': (10, 30, 10), 'learning_rate': 'constant', 'max_iter': 2000, 'solver': 'adam'}",0.597762089,0.796345745,0.071904722,0.872573059,0.086991554
+4,XGBoost,"{'learning_rate': 0.01, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 300}",0.731344606,0.868546916,0.046412472,0.87602105,0.084637687
+5,Linear Regression,{'alpha': 0.5},0.665004467,0.803466429,0.069390604,0.885211902,0.078363296
