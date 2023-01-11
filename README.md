@@ -8,7 +8,7 @@ Machine learning workflow for predicting reaction activation energy.
 
 
 #### data folder
-  > the data used in the study
+  > training set and test set
 #### result folder
   > all the prediction result files
 #### modeling files
