@@ -7,3 +7,12 @@ Machine learning workflow for predicting reaction activation energy.
 ![image](https://user-images.githubusercontent.com/1555415/185529955-b018cdf5-1774-49f3-a578-19fa2d123049.png)
 
 
+#### data folder
+  > the data used in the study
+#### Model 
+- modeling.py
+  > hyperparameter tunning and model predicting
+- plot.py 
+  > drawing figures showed in our research article
+#### result folder
+  > all the prediction result files
