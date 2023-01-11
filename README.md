@@ -9,10 +9,9 @@ Machine learning workflow for predicting reaction activation energy.
 
 #### data folder
   > the data used in the study
-#### Model 
+#### result folder
+  > all the prediction result files
 - modeling.py
   > hyperparameter tunning and model predicting
 - plot.py 
   > drawing figures showed in our research article
-#### result folder
-  > all the prediction result files
